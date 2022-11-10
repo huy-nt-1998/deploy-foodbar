@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foodbar/static/css/main.deebb562.css",
+    "main.js": "/foodbar/static/js/main.baa5597e.js",
+    "static/media/Roboto-Regular.ttf": "/foodbar/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Oswald-VariableFont_wght.ttf": "/foodbar/static/media/Oswald-VariableFont_wght.46d7853f0185f6bf0c93.ttf",
+    "static/media/logo.png.webp": "/foodbar/static/media/logo.png.37f5f889f93733f48dd9.webp",
+    "index.html": "/foodbar/index.html",
+    "main.deebb562.css.map": "/foodbar/static/css/main.deebb562.css.map",
+    "main.baa5597e.js.map": "/foodbar/static/js/main.baa5597e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deebb562.css",
+    "static/js/main.baa5597e.js"
+  ]
+}
