@@ -21,7 +21,7 @@
   }
 }
 
-@mixin splitCol() {
+@mixin SplitCol() {
   $devices: sm, md, lg;
   @for $width from 1 to 13 {
     @each $dv in $devices {
